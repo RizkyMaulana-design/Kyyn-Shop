@@ -1,5 +1,3 @@
-Silakan salin kode Markdown di bawah ini ke dalam file `README.md` Anda:
-
 ```markdown
 <div align="center">
 
