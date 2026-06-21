@@ -1,7 +1,3 @@
-Tentu, mari kita buat versi yang jauh **lebih detail, komprehensif, dan memukau**.
-
-Pada versi ini, saya menambahkan **Daftar Isi (Table of Contents)**, **Alur Penggunaan (User Journey)** yang lebih terperinci, **Skema Penyimpanan Data**, **Kebutuhan Sistem**, dan **Panduan Kontribusi (Contributing Guide)**. Struktur ini adalah standar emas *(gold standard)* untuk repositori *open-source* berskala profesional di GitHub.
-
 Silakan salin kode Markdown di bawah ini ke dalam file `README.md` Anda:
 
 ```markdown
